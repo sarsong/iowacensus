@@ -1,6 +1,5 @@
 <script>
     import * as d3 from 'd3';
-    import { createEventDispatcher } from 'svelte';
   
     export let data;
     export let fullData;
